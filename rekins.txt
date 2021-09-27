@@ -1,0 +1,3 @@
+Produkta cena: 1,194.34€
+PVN summa: 1,197.49€
+rekina_summa: 2,406.83€
